@@ -41,6 +41,9 @@ export default function RootLayout({
                 <Link href="/about" className="hover:opacity-70 transition-opacity">
                   About
                 </Link>
+                <Link href="/experiments" className="hover:opacity-70 transition-opacity">
+                  Fun
+                </Link>
                 <Link href="/contact" className="hover:opacity-70 transition-opacity">
                   Contact
                 </Link>
