@@ -33,10 +33,6 @@ export default function AboutPage() {
           </p>
           <ul>
             <li>
-              <strong>Craftsmanship over speed:</strong> Building things right takes time,
-              and that investment pays dividends in user satisfaction
-            </li>
-            <li>
               <strong>Design systems thinking:</strong> Creating reusable, composable
               components that scale across products
             </li>
@@ -49,19 +45,6 @@ export default function AboutPage() {
               the able-bodied or technically savvy
             </li>
           </ul>
-
-          <h3>Background</h3>
-          <p>
-            My journey started in visual design before evolving into full-stack development.
-            This hybrid skillset lets me prototype rapidly, communicate effectively with both
-            designers and engineers, and own projects from concept to production.
-          </p>
-          <p>
-            I've worked with startups, agencies, and large tech companies, shipping products
-            used by millions of people. Along the way, I've learned that the most impactful
-            work happens when you deeply understand both the user's needs and the technical
-            constraints.
-          </p>
 
           <h3>Currently</h3>
           <p>

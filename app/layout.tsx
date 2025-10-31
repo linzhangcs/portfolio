@@ -32,7 +32,7 @@ export default function RootLayout({
           <nav className="container mx-auto px-6 py-4">
             <div className="flex items-center justify-between">
               <Link href="/" className="text-lg font-semibold hover:opacity-70 transition-opacity">
-                Portfolio
+                Lin Zhang <span className="text-stone-400 hover:opacity-50 transition-opacity ml-2"> design engineer</span>
               </Link>
               <div className="flex gap-6 text-sm">
                 <Link href="/work" className="hover:opacity-70 transition-opacity">
